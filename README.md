@@ -3,8 +3,7 @@
 <div id="header">
   <ul>
     <li>👋 Hi, I’m Clément !</li>
-    <li>👀 I’m interested in web & native apps development, both Front and Back-end</li>
-    <li>📖 Currently learning React advanced concepts and NodeJS</li>
+    <li>💻 Interested in web & native apps development, both Front and Back-end</li>
   </ul>
   
   [![Linkedin Badge](https://img.shields.io/badge/-Clément-blue?style=flat&logo=Linkedin&logoColor=white)](your-linkedin-url)
