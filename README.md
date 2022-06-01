@@ -2,15 +2,22 @@
 
 <div id="header">
   <ul>
-    <li>👋 Hi, I’m Clément M.</li>
+    <li>👋 Hi, I’m Clément !</li>
     <li>👀 I’m interested in web & native apps development, both Front and Back-end</li>
-    <li>🌱 I’m currently learning React advanced concepts and NodeJS</li>
+    <li>📖 Currently learning React advanced concepts and NodeJS</li>
   </ul>
+  
+  [![Linkedin Badge](https://img.shields.io/badge/-Clément-blue?style=flat&logo=Linkedin&logoColor=white)](your-linkedin-url)
+  
 </div>
 
 ---
 
 ### :hammer_and_wrench: Stack and Tools : 
+
+![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=0078d6)
+![](https://img.shields.io/badge/IDE-VSCode-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=0078d6)
+
 <br>
 
 Front-End
