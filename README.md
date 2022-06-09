@@ -6,7 +6,7 @@
     <li>💻 Interested in web & native apps development, both Front and Back-end</li>
   </ul>
   
-  [![Linkedin Badge](https://img.shields.io/badge/-Clément-blue?style=flat&logo=Linkedin&logoColor=white)](your-linkedin-url)
+  [![Linkedin Badge](https://img.shields.io/badge/-Clément-blue?style=flat&logo=Linkedin&logoColor=white)](https://fr.linkedin.com/in/cl%C3%A9ment-mougenot94)
   
 </div>
 
