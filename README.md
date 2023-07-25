@@ -2,7 +2,7 @@
 
 <div id="header">
   <ul>
-    <li>👋 Hi, I’m Clément !</li>
+    <li>👋 Hi, I’m Clément.</li>
     <li>💻 Interested in web & native app development, I'm a Full Stack JS Developper. </li>
   </ul>
   
