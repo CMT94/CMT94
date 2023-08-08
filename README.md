@@ -3,7 +3,7 @@
 <div id="header">
   <ul>
     <li>👋 Hi, I’m Clément.</li>
-    <li>💻 Interested in web & native app development, I'm a Full Stack JS Developper. </li>
+    <li>💻 Full Stack JS Developper, interested in web & native app development. </li>
   </ul>
   
   [![Linkedin Badge](https://img.shields.io/badge/-Clément-blue?style=flat&logo=Linkedin&logoColor=white)](https://fr.linkedin.com/in/cl%C3%A9ment-mougenot94)
