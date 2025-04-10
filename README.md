@@ -6,7 +6,7 @@
     <li>💻 Full Stack JS Developer, interested in web & native app development. </li>
   </ul>
   
-  [![Linkedin Badge](https://img.shields.io/badge/-Clément-blue?style=flat&logo=Linkedin&logoColor=white)](https://fr.linkedin.com/in/cl%C3%A9ment-mougenot94)
+  [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Clément-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/cl%C3%A9ment-mougenot94)
   
 </div>
 
