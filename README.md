@@ -13,8 +13,6 @@
 
 ### :hammer_and_wrench: Stack and Tools : 
 
-![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=0078d6)
-![](https://img.shields.io/badge/IDE-VSCode-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=0078d6)
 
 <br>
 
